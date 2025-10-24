@@ -132,7 +132,7 @@ By completing this assignment, you will:
 
 ### Blockchain Explorers
 - [Mempool.space](https://mempool.space) - Clean UI, detailed information
-- [Blockchain.com](https://blockchain.com) - Classic explorer
+- [Blockchain.com](https://www.blockchain.com/explorer) - Classic explorer
 - [Blockstream.info](https://blockstream.info) - Technical details
 
 ### Learning Resources
