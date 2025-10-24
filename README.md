@@ -16,7 +16,7 @@ Use a blockchain explorer to inspect a specific Bitcoin block:
 
 **Recommended Explorers:**
 - [mempool.space](https://mempool.space)
-- [blockchain.com](https://blockchain.com)
+- [blockchain.com](https://www.blockchain.com/explorer)
 
 ### Requirements
 
